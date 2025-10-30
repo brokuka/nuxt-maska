@@ -1,0 +1,4 @@
+strictPeerDependencies: false
+shamefullyHoist: true
+ignoreWorkspaceRootCheck: true
+shellEmulator: true
